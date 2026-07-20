@@ -1,11 +1,22 @@
 # 95guknow.github.io
 
-Public landing for **Senfkorn UG** / **@95guknow** (WIR Mesh · Cybersecurity · Fusion Hero OS).
+Public landing for **Senfkorn UG · 95guknow · WIR Mesh**.
 
-- Live: https://95guknow.github.io/
-- Instagram: https://instagram.com/95guknow
-- GitHub: https://github.com/95guknow
-- Platform docs: https://95guknow.github.io/fusion-hero-os/
+## BIG ALPHA
 
-Template inspired by the Senfkorn homepage builder mock (cyber mesh aesthetic).
-No third-party “buy builder” banners.
+- Platform: Fusion Hero OS **v12.0.0**
+- Cycle: BIG OMEGA sealed · BIG ALPHA open
+- Meister Hasch asset (hash-locked): `assets/meister_hasch.png`
+- Publish pack: [ALPHA_MEISTER_HASCH.md](https://github.com/95guknow/fusion-hero-os/blob/main/docs/dissertation/ALPHA_MEISTER_HASCH.md)
+
+## Local
+
+Open `index.html` or serve:
+
+```bash
+npx serve .
+```
+
+## Policy
+
+Public-safe only · no vault · labor frame · offense not represented as Realraum.
