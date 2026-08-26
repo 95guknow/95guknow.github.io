@@ -1,5 +1,5 @@
 # Pillerquest — Mesh Pointer
 
+Operator: Stephan Hagen Urban · `=====stephanhagenurban`
 Home: https://github.com/95guknow/pillerquest
-Primary: https://github.com/95guknow/fusion-hero-os
-Public page: /pillerquest.html
+Cycle: P0 → P1
